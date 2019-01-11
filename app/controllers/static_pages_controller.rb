@@ -9,6 +9,6 @@ class StaticPagesController < ApplicationController
   end
 
   def contact
-    #code
+    
   end
 end
